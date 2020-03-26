@@ -1,0 +1,4 @@
+monitor.poll.config.file = ./config/poll.config.csv
+
+monitor.alert.sender.email = example@email.com
+monitor.alert.sender.password = password

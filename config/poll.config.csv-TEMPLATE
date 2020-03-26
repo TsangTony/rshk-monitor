@@ -1,0 +1,2 @@
+route,schedule,alert_recipient,alert_subject
+./routes/rfx-rates,* * * * *,example@email.com,RFX Rate Monitor Alert
