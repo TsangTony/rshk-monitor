@@ -5,7 +5,7 @@ let csvtojson = require('csvtojson');
 let propertiesreader = require('properties-reader');
 
 let poll = (properties, callback) => {
-    if (!properties) propertiesreader('./config/rfx.rates.properties.ini');
+    if (!properties) properties = propertiesreader('./config/rfx.rates.properties.ini');
 
     let now = new Date();
     // TODO consider daylight saving
