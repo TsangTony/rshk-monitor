@@ -19,6 +19,6 @@
     "node-cron": "^2.0.3",
     "nodejs-nodemailer-outlook": "^1.2.3",
     "nyc": "^15.0.0",
-    "properties-reader": "^1.0.0"
+    "properties-reader": "^2.2.0"
   }
 }
